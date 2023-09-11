@@ -15,7 +15,7 @@ This is a REST API that performs CRUD operations on Person model.
 
 ## Getting Started
 
-The API is deployed and can be tested [here](insert_link_to_deployed_API).
+The API is deployed and can be tested [here](https://hng-two.onrender.com).
 To get started with the API and run it locally, you can follow these instructions:
 
 ### Prerequisites
