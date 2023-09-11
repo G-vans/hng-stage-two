@@ -36,7 +36,7 @@ class PeopleController < ApplicationController
   # DELETE /api/:id
   def destroy
     @person.destroy
-    head :no_content
+    render json: { message: 'Person removed successfully.' }
   end
 
   private
